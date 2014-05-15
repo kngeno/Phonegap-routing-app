@@ -1,0 +1,8 @@
+.ui-header .ui-title {
+    margin-right:20px;
+    margin-left:20px;
+}
+
+.ui-content { padding: 25px 15px; }
+
+.ui-page .ui-footer { position: absolute; bottom: 0px; left: 0px; }
